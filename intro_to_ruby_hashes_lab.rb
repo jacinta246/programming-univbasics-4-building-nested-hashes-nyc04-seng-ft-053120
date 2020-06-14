@@ -1,7 +1,7 @@
 def base_hash
   hash = Hash.new(:railroads)
   hash = {
-    railroads: => {}
+    :railroads => {}
   }
 
 end

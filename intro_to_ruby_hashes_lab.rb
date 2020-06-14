@@ -17,7 +17,7 @@ end
 def monopoly_with_third_tier
   hash = Hash.new
   hash = {
-    :railroads=> { pieces: 4, :rent_in_dollars=>{:one_piece_owned:} ,:names=>{}
+    :railroads=> { pieces: 4, :rent_in_dollars=>{:one_piece_owned:25, } ,:names=>{}
   }
 }
 

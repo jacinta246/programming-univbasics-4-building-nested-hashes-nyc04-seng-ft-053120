@@ -10,8 +10,7 @@ def monopoly_with_second_tier
   hash = Hash.new
   hash = {
     :railroads => {
-      
-    },
+      :pieces =>{,
     :rented_in_dollars=>{},
     :names=>{}
 end
